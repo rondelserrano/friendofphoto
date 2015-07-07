@@ -1,0 +1,14 @@
+# Introduction #
+This application will be the best one of these applications ever built.
+It will have the most flexible design ever conceived. Coolness factor of anything
+less then 11 will not be acceptable.
+
+Add your content here.
+
+
+# Details #
+
+Add your content here.  Format your content with:
+  * Text in **bold** or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
